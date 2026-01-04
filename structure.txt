@@ -1,0 +1,24 @@
+zoo-erp/
+├── README.md
+└── src/
+    └── main/
+        └── java/
+            └── zoo/
+                ├── Main.java
+                ├── Zoo.java
+                ├── animals/
+                │   ├── Animal.java
+                │   ├── Lion.java
+                │   ├── Parrot.java
+                │   └── Snake.java
+                ├── care/
+                │   ├── Feedable.java
+                │   ├── Cleanable.java
+                │   └── Healable.java
+                ├── staff/
+                │   ├── ZooWorker.java
+                │   ├── Keeper.java
+                │   └── Veterinarian.java
+                └── report/
+                    ├── ReportService.java
+                    └── ConsoleReportService.java
